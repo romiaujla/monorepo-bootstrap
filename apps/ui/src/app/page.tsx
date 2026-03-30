@@ -9,7 +9,7 @@ export default function HomePage() {
   return (
     <main className="page-shell">
       <section className="hero">
-        <div className="eyebrow">Gurudwara React Application</div>
+        <div className="eyebrow">React Application Bootstrap</div>
         <article className="hero-card">
           <div className="hero-grid">
             <div className="hero-copy">

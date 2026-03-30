@@ -4,7 +4,7 @@ import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Gurudwara React Application",
+  title: "React Application Bootstrap",
   description: "Monorepo bootstrap UI scaffold",
 };
 
