@@ -21,6 +21,7 @@ const baseConfig = [
       "@typescript-eslint": tseslint,
     },
     rules: {
+      "no-unused-vars": "off",
       "@typescript-eslint/consistent-type-imports": "error",
       "@typescript-eslint/no-unused-vars": [
         "error",
@@ -35,4 +36,3 @@ const baseConfig = [
 ];
 
 export default baseConfig;
-
