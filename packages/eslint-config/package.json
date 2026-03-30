@@ -5,6 +5,7 @@
   "type": "module",
   "exports": {
     "./base": "./base.js",
+    "./browser": "./browser.js",
     "./node": "./node.js"
   },
   "peerDependencies": {
@@ -17,4 +18,3 @@
     "typescript": "^5.8.3"
   }
 }
-
