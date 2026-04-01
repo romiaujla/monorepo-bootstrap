@@ -19,6 +19,8 @@
     "local:postgres:start": "node ./scripts/manage-local-postgres.mjs start",
     "local:postgres:status": "node ./scripts/manage-local-postgres.mjs status",
     "local:postgres:stop": "node ./scripts/manage-local-postgres.mjs stop",
+    "specify.audit": "node ./scripts/specify-audit.mjs",
+    "specify.drift": "node ./scripts/specify-drift.mjs",
     "test": "turbo test",
     "test:e2e": "turbo test:e2e",
     "test:integration": "turbo test:integration",
